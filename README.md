@@ -1,4 +1,4 @@
-# flareon6-6
+# flareon6 solutions
 
 This repo contains files I created during the flareon 6 CTF to serve everybodies curiosity.
 
