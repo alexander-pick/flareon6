@@ -12,4 +12,4 @@ This repo contains files I created during the flareon 6 CTF to serve everybodies
 
 8 - solved with an iNES IDA Loader, FCEUX and love for code
 
-9 - twisted min games in x86 asm, solved using IDA and Z3
+9 - twisted mind games in x86 asm, solved using IDA and Z3
