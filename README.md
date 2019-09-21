@@ -1,5 +1,6 @@
-# flareon6 – you know the drill
+# flareon6 
 
+![Win!](/done.PNG)
 
 This repo contains files I created during the flareon 6 CTF to serve everybody’s curiosity. I managed to finish the challenge as 206th this year. It was a really amazing ride, pure binary r0ck ‘n’ r011. Here are the files written during the challenges and some notes.
 For those who don’t know it, take a look here:
