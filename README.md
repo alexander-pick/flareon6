@@ -13,7 +13,7 @@ Was .NET basics, DNSpy helped to solve this quite quick.
 This one was some basic patch training.
 
 ## 3 - flarebear
-This fancy bear was really a funny challenge. I took a most likely unusable path and brute forced the right combination with a module written for the Xposed Framework. It hooks the process and injects a brute force engine into it which took approximately 3 minutes to trigger the solution on a Samsung A3.
+This fancy bear was really a funny challenge. I took a most likely unusable path and brute forced the right combination with a module written for the Xposed Framework. It hooks the process and injects a brute force engine into it, which took approximately 3 minutes to trigger the solution on a Samsung A3.
 
 ## 4 - dnschess
 The first time the chess class in school paid of, I got the idea unexpectedly fast. After setting up the DNS records in a host file I was able to play through after a quick look into the pcap.
