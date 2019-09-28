@@ -41,3 +41,5 @@ Not my favorite but educational. Sadly, I was a bit plagued by some IDA bugs dur
 
 ## 12 – help
 Ok – forensics was never my favorite field. I spend quite some time and a lot of energy on this challenge. I am really curious on how the expected solution for this will look like since the path I took in the end looked rather unexpected. There were so many paths to follow, found malware and reversed it etc. but in the end the solution was sitting in memory and was recoverable by floss.
+
+After reading some writeups and the official solution I found out I was close to the intended solution as well. Using volatility I extracted a ton of interesting stuff, including the payload dlls and the stm filter driver and reversed most of it before I stumbled upon most of the flag in memory. One thing which is noticeable - the screenshots and DLLS could all be extracted from VAD, there is no need to get the screens from the stream. Interesting enough I got all the payloads but never really found the man.sys binary which I was looking for because of some string hints.
